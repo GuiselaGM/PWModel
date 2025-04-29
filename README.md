@@ -1,2 +1,2 @@
 # PWModel
-Parametric Wave Model 
+Parametric Wave Model (MATLAB version)
