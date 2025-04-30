@@ -12,7 +12,7 @@ Matlab script and functions:
 "PWModel.m" is the function to generate the TC wave field;
 "rotate_get_HsTpdir.m" is a function to rotate the storm and get the parameters at a specific point of the TC wave field;
 
-Dataset needed to run the model is a folder named 'wave_diagrams' that can be downloaded from: https://doi.org/10.26188/27237156
+Dataset to run the model is a folder named 'wave_diagrams' that can be downloaded from: https://doi.org/10.26188/27237156
 The folder 'wave_diagrams' has the spatial distributions necessary to run the PWModel. It contains 378 model runs with the spatial 
 distribution of wave parameters. 
 These files have the following naming convention:
