@@ -1,11 +1,10 @@
-% Code with an example to get the significant wave height,dir and period in 
+% Code with an example to get the significant wave height, dir and period in 
 % a buoy location crossed by a Tropical Cyclone using the PWModel 
 %_/(`_/(`_/(`_/(`_/(`_/(`_/(`_/(`_/(`_/(`_/(`_/(`_/(`_/(`_/(`_/(`_/(`_/(`_
 % Reference:
-% Grossmann-Matheson et al., 2025
-% The spatial distribution of ocean wave parameters in tropical cyclones 
-% Ocean Engineering (submitted)
-% DOI: (to update)
+% Grossmann-Matheson et al., 2025, The spatial distribution of ocean wave 
+% parameters in tropical cyclones, Ocean Eng, 317, 120091 (2025). 
+% https://doi.org/10.1016/j.oceaneng.2024.120091
 %_/(`_/(`_/(`_/(`_/(`_/(`_/(`_/(`_/(`_/(`_/(`_/(`_/(`_/(`_/(`_/(`_/(`_/(`_
 %
 % Parameters required to run this code: 
