@@ -32,8 +32,7 @@ vpeak = meridional component peak direction. The matrix is stored as Z(x,y) or Z
 **The variable Hs is the original Hs spatial distribution. Not used in the current calculations.
 
 Please refer to:
-_/(`_/(`_/(`_/(`_/(`_/(`_/(`_/(`_/(`_/(`_/(`_/(`_/(`_/(`_/(`_/(`_/(`/(`_/(`_
 Grossmann-Matheson et al., 2025, The spatial distribution of ocean wave parameters 
 in tropical cyclones, Ocean Eng, 317, 120091 (2025). 
 https://doi.org/10.1016/j.oceaneng.2024.120091
-_/(`_/(`_/(`_/(`_/(`_/(`_/(`_/(`_/(`_/(`_/(`_/(`_/(`_/(`_/(`_/(`_/(`/(`_/(`_
+
