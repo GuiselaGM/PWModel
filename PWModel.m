@@ -241,8 +241,8 @@ fname6=['wave','_',t1_2,'_',t2_1,'_',t3_2,'_',t4_1];
 eval(['load ',fname6]);
 Z6 = Z; clear Z
 T6 = Tp;clear Tp
-U5 = upeak; clear upeak
-V5 = vpeak; clear vpeak
+U6 = upeak; clear upeak
+V6 = vpeak; clear vpeak
 
 fname7=['wave','_',t1_1,'_',t2_2,'_',t3_2,'_',t4_1];
 eval(['load ',fname7]);
@@ -739,6 +739,6 @@ colormap(parula);
  
 end
 
-% Guisela, October/2025
+% Guisela, October/2024
 % ><> ><> ><> ><> ><> ><> ><> ><> ><> ><> ><> ><> ><> ><> ><> ><> ><> ><>
 
